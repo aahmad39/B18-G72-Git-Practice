@@ -7,10 +7,10 @@ rgmod = {
     name     = "dev-rg2"
     location = "eastus"
   }
-   "rg3" = {
-    name     = "dev-rg3"
-    location = "eastus"
-  }
+  #  "rg3" = {
+  #   name     = "dev-rg3"
+  #   location = "eastus"
+  # }
    
 }   
 
