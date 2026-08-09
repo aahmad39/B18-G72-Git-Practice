@@ -1,6 +1,6 @@
 rgmod = {
   "rg1" = {
-    name     = "rg1"
+    name     = "dev-rg1"
     location = "eastus"
   }
   "rg2" = {
@@ -11,16 +11,16 @@ rgmod = {
 
 strmod = {
   "str1" = {
-    name                     = "stradnan1"
-    resource_group_name      = "rg1"
+    name                     = "devstr111"
+    resource_group_name      = "dev-rg1"
     location                 = "eastus"
     account_tier             = "Standard"
     account_replication_type = "LRS"
   }
 
   "str2" = {
-    name                     = "stradnan2"
-    resource_group_name      = "rg2"
+    name                     = "dev-str222"
+    resource_group_name      = "dev-rg2"
     location                 = "eastus"
     account_tier             = "Standard"
     account_replication_type = "LRS"

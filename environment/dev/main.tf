@@ -5,6 +5,6 @@ module"resource_group" {
 
 module"storage_account" {
     depends_on = [module.resource_group]
-  source="../../module/azurerm_storage_account"
+  source = "../../module/azurerm_storage_account"
   str    = var.strmod
 }

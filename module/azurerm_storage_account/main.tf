@@ -1,4 +1,4 @@
-azurerm_storage_account "adnan1" {
+resource "azurerm_storage_account" "adnan" {
     for_each = var.str
   name                     = each.value.name
   resource_group_name      = each.value.resource_group_name
