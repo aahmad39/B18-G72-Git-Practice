@@ -1,0 +1,2 @@
+variable "rgmod" {}
+variable "strmod" {}
