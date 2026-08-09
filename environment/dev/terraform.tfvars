@@ -19,7 +19,7 @@ strmod = {
   }
 
   "str2" = {
-    name                     = "dev-str222"
+    name                     = "devstr222"
     resource_group_name      = "dev-rg2"
     location                 = "eastus"
     account_tier             = "Standard"
