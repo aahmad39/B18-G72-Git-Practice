@@ -7,6 +7,10 @@ rgmod = {
     name     = "prod-rg2"
     location = "eastus"
   }
+  "rg3" = {
+    name     = "prod-rg3"
+    location = "eastus"
+  }
 }   
 
 strmod = {
